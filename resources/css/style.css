@@ -10,7 +10,7 @@ h1 {
 }
 
 .header {
-  background-image: url('https://github.com/pihm/broadway/blob/master/resources/images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
 }
 
 p.header {
