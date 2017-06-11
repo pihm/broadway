@@ -13,7 +13,7 @@ h1 {
   background-image: url('../images/the-flatiron-building.png');
 }
 
-p.hero {
+a.hero {
   font-size: 18px;
   color: white;
 }
