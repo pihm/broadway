@@ -29,8 +29,5 @@ h3 {
 
 .partition {
   background-image: url('../images/the-flatiron-building.png')
-}
-
-h3.partition {
   color: white;
 }
